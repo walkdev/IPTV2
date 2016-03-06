@@ -1,12 +1,15 @@
 #EXTM3U
 
-#EXTINF:0 group-title="DESPORTO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/MTV_Hits_logo_2013.png/50px-MTV_Hits_logo_2013.png",SPORTTV 1 HD
+#EXTINF:0 group-title="DESPORTO" tvg-logo="http://4.bp.blogspot.com/-b1DIhcf6JEg/VOvFI7NKYjI/AAAAAAAAAnk/QLDqKawYhyQ/s320/SPT1HD.png",SPORTTV 1 HD
 http://iptv.cline.in:80/live/invisibile/invisibile/494.m3u8
 
-#EXTINF:0 group-title="DESPORTO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/MTV_Hits_logo_2013.png/50px-MTV_Hits_logo_2013.png",CANAL+ GOLF
+#EXTINF:0 group-title="DESPORTO" tvg-logo="http://1.bp.blogspot.com/-l53Cf98NGEQ/VOvE3Rw4n6I/AAAAAAAAAnU/73_vULPBk9k/s320/SPT2HD.png",SPORTTV 2 HD
+http://iptv.cline.in:80/live/invisibile/invisibile/495.m3u8
+
+#EXTINF:0 group-title="DESPORTO" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/canal-plus-golf.jpg",CANAL+ GOLF
 http://iptv.cline.in:80/live/invisibile/invisibile/489.m3u8
 
-#EXTINF:0 group-title="DESPORTO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/MTV_Hits_logo_2013.png/50px-MTV_Hits_logo_2013.png",CANAL+ LIGA HD
+#EXTINF:0 group-title="DESPORTO" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/canalplus-hd-liga.jpg",CANAL+ LIGA HD
 http://iptv.cline.in:80/live/invisibile/invisibile/488.m3u8
 
 #EXTINF:0 group-title="MUSICA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/MTV_Hits_logo_2013.png/50px-MTV_Hits_logo_2013.png",MTV DANCE
