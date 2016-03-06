@@ -9,7 +9,7 @@ http://iptv.cline.in:80/live/invisibile/invisibile/489.m3u8
 #EXTINF:0 group-title="DESPORTO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/MTV_Hits_logo_2013.png/50px-MTV_Hits_logo_2013.png",CANAL+ LIGA HD
 http://iptv.cline.in:80/live/invisibile/invisibile/488.m3u8
 
-EXTINF:0 group-title="MUSICA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/MTV_Hits_logo_2013.png/50px-MTV_Hits_logo_2013.png",MTV DANCE
+#EXTINF:0 group-title="MUSICA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/MTV_Hits_logo_2013.png/50px-MTV_Hits_logo_2013.png",MTV DANCE
 http://iptvbox.noip.us:9998/live/anton/skype/116.m3u8
 
 #EXTINF:0 group-title="MUSICA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/MTV_Hits_logo_2013.png/50px-MTV_Hits_logo_2013.png",MTV HITS
