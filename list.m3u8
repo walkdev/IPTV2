@@ -13,13 +13,31 @@ http://ipsatpro.com:8000/live/fatihamca/fatihamca/934.m3u8
 http://ipsatpro.com:8000/live/fatihamca/fatihamca/933.m3u8 
 
 #EXTINF:0 group-title="ENTERTENIMENTO" tvg-logo="http://www.thelogodb.com/images/media/logo/uqxqvw1452600491.png",TV SÉRIES
-http://ipsatpro.com:8000/live/fatihamca/fatihamca/930.m3u8 
+http://ipsatpro.com:8000/live/fatihamca/fatihamca/930.m3u8
+
+#EXTINF:0 group-title="ENTERTENIMENTO" tvg-logo="http://www.thelogodb.com/images/media/logo/vqtrqu1436898965.png",CANAL HOLLYWOOD
+http://ipsatpro.com:8000/live/angelo/angelo/907.m3u8
+
+#EXTINF:0 group-title="ENTERTENIMENTO" tvg-logo="http://www.thelogodb.com/images/media/logo/rysqvw1445113783.png",AXN HD
+http://ipsatpro.com:8000/live/fatihamca/fatihamca/915.m3u8
+
+#EXTINF:0 group-title="ENTERTENIMENTO" tvg-logo="http://www.thelogodb.com/images/media/logo/vsyrsv1445114274.png",AXN BLACK
+http://ipsatpro.com:8000/live/fatihamca/fatihamca/932.m3u8
+
+#EXTINF:0 group-title="ENTERTENIMENTO" tvg-logo="http://www.thelogodb.com/images/media/logo/tqxpxq1448198387.png",FOX COMEDY
+http://ipsatpro.com:8000/live/fatihamca/fatihamca/923.m3u8
+
+#EXTINF:0 group-title="ENTERTENIMENTO" tvg-logo="http://www.thelogodb.com/images/media/logo/yusxxt1452596924.png",MOV HD
+http://ipsatpro.com:8000/live/fatihamca/fatihamca/929.m3u8
 
 #EXTINF:0 group-title="DESPORTO" tvg-logo="http://www.thelogodb.com/images/media/logo/ryxprx1436898834.png",SPORTTV 1 HD
 http://iptv.cline.in:80/live/invisibile/invisibile/494.m3u8
 
 #EXTINF:0 group-title="DESPORTO" tvg-logo="http://www.thelogodb.com/images/media/logo/wwwxrx1436898851.png",SPORTTV 2 HD
 http://iptv.cline.in:80/live/invisibile/invisibile/495.m3u8
+
+#EXTINF:0 group-title="DESPORTO" tvg-logo="http://www.thelogodb.com/images/media/logo/twpvrs1433477118.png",SPORTING TV
+http://ipsatpro.com:8000/live/fatihamca/fatihamca/885.m3u8
 
 #EXTINF:0 group-title="DESPORTO" tvg-logo="http://www.thelogodb.com/images/media/logo/wqsuxv1455221030.png",CANAL+ GOLF
 http://iptv.cline.in:80/live/invisibile/invisibile/489.m3u8
