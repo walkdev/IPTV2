@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:0 group-title="ENTERTENIMENTO" tvg-logo="http://www.thelogodb.com/images/media/logo/sxpuvs1436896350.png",TV CINE 1
+#EXTINF:0 group-title="ENTERTENIMENTO" tvg-logo="http://www.thelogodb.com/images/media/logo/sxpuvs1436896350.png" tvg-id="TVC1",TV CINE 1
 http://ipsatpro.com:8000/live/fatihamca/fatihamca/936.m3u8 
 
 #EXTINF:0 group-title="DESPORTO" tvg-logo="http://4.bp.blogspot.com/-b1DIhcf6JEg/VOvFI7NKYjI/AAAAAAAAAnk/QLDqKawYhyQ/s320/SPT1HD.png",SPORTTV 1 HD
