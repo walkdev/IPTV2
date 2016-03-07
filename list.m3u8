@@ -1,5 +1,20 @@
 #EXTM3U
 
+#EXTINF:0 group-title="NACIONAIS" tvg-logo="http://www.thelogodb.com/images/media/logo/quvwwq1438183825.png",RTP 1
+http://88.157.194.246/live/ramdisk/zrtp1/HLS/zrtp1.m3u8
+
+#EXTINF:0 group-title="NACIONAIS" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png",SIC
+http://213.13.26.11:1935/live/sic/livestream.m3u8
+
+#EXTINF:0 group-title="NACIONAIS" tvg-logo="http://www.thelogodb.com/images/media/logo/qwwusv1434076725.png",TVI
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
+
+#EXTINF:0 group-title="NACIONAIS" tvg-logo="http://www.thelogodb.com/images/media/logo/ustqwy1436891230.png",SIC RADICAL
+http://www.t12v.com:8000/live/prevot/prevot/1159.ts
+
+#EXTINF:0 group-title="NACIONAIS" tvg-logo="http://www.thelogodb.com/images/media/logo/rqrvpy1433343925.png",SIC CARAS
+http://www.t12v.com:8000/live/prevot/prevot/1422.ts
+
 #EXTINF:0 group-title="NACIONAIS" tvg-logo="http://www.thelogodb.com/images/media/logo/yywyyt1433343546.png",PORTO CANAL
 http://ipsatpro.com:8000/live/fatihamca/fatihamca/919.m3u8
 
@@ -84,8 +99,8 @@ http://iptvbox.noip.us:9998/live/anton/skype/117.m3u8
 #EXTINF:0 group-title="MUSICA" tvg-logo="http://www.thelogodb.com/images/media/logo/rvtqvs1435092184.png",MCM POP
 http://iptvbox.noip.us:9998/live/anton/skype/118.m3u8
 
-#EXTINF:0 group-title="INFORMAÇÃO" tvg-logo="http://www.thelogodb.com/images/media/logo/rvtqvs1435092184.png",TVI 24
-http://cp.dmbshare.net:8000/live/liverpool/liverpool/3443.m3u8
+#EXTINF:0 group-title="INFORMAÇÃO" tvg-logo="http://www.thelogodb.com/images/media/logo/wtysqy1436898428.png",TVI 24
+http://www.t12v.com:8000/live/prevot/prevot/808.ts
 
 #EXTINF:0 group-title="INTERNACIONAIS" tvg-logo="http://www.thelogodb.com/images/media/logo/sxuvqw1451142041.png",M6 HD
 http://iptv.cline.in:80/live/invisibile/invisibile/492.m3u8
