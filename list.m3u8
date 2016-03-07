@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:0 group-title="NACIONAIS" tvg-logo="http://www.thelogodb.com/images/media/logo/yywyyt1433343546.png",PORTO CANAL
+http://ipsatpro.com:8000/live/fatihamca/fatihamca/919.m3u8
+
 #EXTINF:0 group-title="ENTERTENIMENTO" tvg-logo="http://www.thelogodb.com/images/media/logo/sxpuvs1436896350.png",TV CINE 1
 http://ipsatpro.com:8000/live/fatihamca/fatihamca/936.m3u8
 
@@ -38,6 +41,21 @@ http://iptv.cline.in:80/live/invisibile/invisibile/495.m3u8
 
 #EXTINF:0 group-title="DESPORTO" tvg-logo="http://www.thelogodb.com/images/media/logo/twpvrs1433477118.png",SPORTING TV
 http://ipsatpro.com:8000/live/fatihamca/fatihamca/885.m3u8
+
+#EXTINF:0 group-title="DESPORTO" tvg-logo="http://www.thelogodb.com/images/media/logo/vsurrv1433781133.png",ARENA SPORT 1
+http://iptv.cline.in:80/live/invisibile/invisibile/502.m3u8
+
+#EXTINF:0 group-title="DESPORTO" tvg-logo="http://www.thelogodb.com/images/media/logo/vrqsrx1433781528.png",ARENA SPORT 2
+http://iptv.cline.in:80/live/invisibile/invisibile/503.m3u8
+
+#EXTINF:0 group-title="DESPORTO" tvg-logo="http://www.thelogodb.com/images/media/logo/uuqqxq1433781899.png",ARENA SPORT 3
+http://iptv.cline.in:80/live/invisibile/invisibile/504.m3u8
+
+#EXTINF:0 group-title="DESPORTO" tvg-logo="http://www.thelogodb.com/images/media/logo/uuqqxq1433781899.png",ARENA SPORT 4
+http://iptv.cline.in:80/live/invisibile/invisibile/505.m3u8
+
+#EXTINF:0 group-title="DESPORTO" tvg-logo="http://www.thelogodb.com/images/media/logo/upxppt1433783076.png",ARENA SPORT 5
+http://iptv.cline.in:80/live/invisibile/invisibile/506.m3u8
 
 #EXTINF:0 group-title="DESPORTO" tvg-logo="http://www.thelogodb.com/images/media/logo/wqsuxv1455221030.png",CANAL+ GOLF
 http://iptv.cline.in:80/live/invisibile/invisibile/489.m3u8
