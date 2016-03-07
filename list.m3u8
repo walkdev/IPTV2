@@ -1,7 +1,19 @@
 #EXTM3U
 
-#EXTINF:0 group-title="ENTERTENIMENTO" tvg-logo="http://www.thelogodb.com/images/media/logo/sxpuvs1436896350.png" tvg-id="TVC1",TV CINE 1
-http://ipsatpro.com:8000/live/fatihamca/fatihamca/936.m3u8 
+#EXTINF:0 group-title="ENTERTENIMENTO" tvg-logo="http://www.thelogodb.com/images/media/logo/sxpuvs1436896350.png",TV CINE 1
+http://ipsatpro.com:8000/live/fatihamca/fatihamca/936.m3u8
+
+#EXTINF:0 group-title="ENTERTENIMENTO" tvg-logo="http://www.thelogodb.com/images/media/logo/xyvrxy1436896360.png",TV CINE 2
+http://ipsatpro.com:8000/live/fatihamca/fatihamca/935.m3u8 
+
+#EXTINF:0 group-title="ENTERTENIMENTO" tvg-logo="http://www.thelogodb.com/images/media/logo/typxsx1436896370.png",TV CINE 3
+http://ipsatpro.com:8000/live/fatihamca/fatihamca/934.m3u8 
+
+#EXTINF:0 group-title="ENTERTENIMENTO" tvg-logo="http://www.thelogodb.com/images/media/logo/rvtxww1436896380.png",TV CINE 4
+http://ipsatpro.com:8000/live/fatihamca/fatihamca/933.m3u8 
+
+#EXTINF:0 group-title="ENTERTENIMENTO" tvg-logo="http://www.thelogodb.com/images/media/logo/uqxqvw1452600491.png",TV SÉRIES
+http://ipsatpro.com:8000/live/fatihamca/fatihamca/930.m3u8 
 
 #EXTINF:0 group-title="DESPORTO" tvg-logo="http://4.bp.blogspot.com/-b1DIhcf6JEg/VOvFI7NKYjI/AAAAAAAAAnk/QLDqKawYhyQ/s320/SPT1HD.png",SPORTTV 1 HD
 http://iptv.cline.in:80/live/invisibile/invisibile/494.m3u8
