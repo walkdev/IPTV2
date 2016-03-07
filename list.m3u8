@@ -3,6 +3,12 @@
 #EXTINF:0 group-title="NACIONAIS" tvg-logo="http://www.thelogodb.com/images/media/logo/yywyyt1433343546.png",PORTO CANAL
 http://ipsatpro.com:8000/live/fatihamca/fatihamca/919.m3u8
 
+#EXTINF:0 group-title="INFANTIL" tvg-logo="http://www.thelogodb.com/images/media/logo/yvxvvq1433781420.png",CARTOON NETWORK
+http://ipsatpro.com:8000/live/fatihamca/fatihamca/920.m3u8
+
+#EXTINF:0 group-title="INFANTIL" tvg-logo="http://www.thelogodb.com/images/media/logo/tsrttv1433963977.png",DISNEY CHANNEL +1
+http://iptv.cline.in:80/live/invisibile/invisibile/561.m3u8
+
 #EXTINF:0 group-title="ENTERTENIMENTO" tvg-logo="http://www.thelogodb.com/images/media/logo/sxpuvs1436896350.png",TV CINE 1
 http://ipsatpro.com:8000/live/fatihamca/fatihamca/936.m3u8
 
@@ -62,6 +68,9 @@ http://iptv.cline.in:80/live/invisibile/invisibile/489.m3u8
 
 #EXTINF:0 group-title="DESPORTO" tvg-logo="http://www.thelogodb.com/images/media/logo/qxpxsq1435144103.png",CANAL+ LIGA HD
 http://iptv.cline.in:80/live/invisibile/invisibile/488.m3u8
+
+#EXTINF:0 group-title="DESPORTO" tvg-logo="http://www.thelogodb.com/images/media/logo/vwrqqs1434463964.png",RAI SPORT 1
+http://iptv.cline.in:80/live/invisibile/invisibile/531.m3u8
 
 #EXTINF:0 group-title="MUSICA" tvg-logo="http://www.thelogodb.com/images/media/logo/xusuwy1433522237.png",MTV DANCE
 http://iptvbox.noip.us:9998/live/anton/skype/116.m3u8
